@@ -1,2 +1,2 @@
 # BluBoard
-A custom keyboard!
+A custom 75% keyboard!
